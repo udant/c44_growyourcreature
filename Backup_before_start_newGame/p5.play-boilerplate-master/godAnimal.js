@@ -1,9 +1,0 @@
-class GodAnimal{
-    constructor(){
-
-    }
-    display(){
-
-        
-    }
-}

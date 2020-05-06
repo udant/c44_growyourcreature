@@ -1,0 +1,6 @@
+Issues: 1. When image is overlapping, only front image is visible, how to make both the images visible?
+
+2: After infoForm.ok is pressed, the screen /form should be hidden /closed. and control should go back to sketch.js where we called inform.display function, InforForm.js Line no - 45/46
+
+3. control is not holding itself on infoform.display "Ok"
+
